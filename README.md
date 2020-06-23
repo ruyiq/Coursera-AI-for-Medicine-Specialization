@@ -1,4 +1,4 @@
-# Coursera-AI-for-Medical-Diagnosis
+# Course1: AI for Medical Diagnosis
 
 ## Course Content
 1. Disease detection with computer vision
